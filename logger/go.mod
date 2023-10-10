@@ -1,4 +1,4 @@
-module example.com/logger
+module github.com/yuuki1967/logger
 
 go 1.18
 
