@@ -1,4 +1,4 @@
-module github.com/yuuki1967/logger
+module github.com/yuuki1967/util
 
 go 1.18
 
